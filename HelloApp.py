@@ -4,5 +4,10 @@ def printHello():
 def greetWhite():
     print("Hello white")
 
+def greetBlack():
+    print("Hello black")
+
 
 printHello()
+greetWhite()
+greetBlack()
