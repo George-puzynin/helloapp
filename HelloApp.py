@@ -9,3 +9,5 @@ def greetBlack():
 
 
 printHello()
+greetWhite()
+greetBlack()
